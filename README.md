@@ -1,1 +1,2 @@
-# rjuppa.github.io
+# ng-my-video — sandbox for AngularJS
+
